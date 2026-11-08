@@ -5,6 +5,25 @@
  "budget_bytes": 900000000,
  "media": [
   {
+   "id": "amanda-bubbles",
+   "variant": "short-en",
+   "version": 1,
+   "file": "amanda-bubbles/short-en-v1.mp4",
+   "asset": "amanda-bubbles--short-en--v1.mp4",
+   "release": "amanda-bubbles",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/amanda-bubbles/amanda-bubbles--short-en--v1.mp4",
+   "sha256": "ef7ce446fe3ecc4c1c2c7995b8e016119c5068a5e73a1639e644f05455615221",
+   "bytes": 64215743,
+   "duration_s": 40.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Свет во льду: AMANDA, 1993",
+    "en": "Light in the ice: AMANDA, 1993"
+   }
+  },
+  {
    "id": "icecube-first-pev",
    "variant": "web-en",
    "version": 3,
