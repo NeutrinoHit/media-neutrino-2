@@ -24,6 +24,44 @@
    }
   },
   {
+   "id": "cherenkov-radiation",
+   "variant": "film-dipoles-en",
+   "version": 1,
+   "file": "cherenkov-radiation/film-dipoles-en-v1.mp4",
+   "asset": "cherenkov-radiation--film-dipoles-en--v1.mp4",
+   "release": "cherenkov-radiation",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/cherenkov-radiation/cherenkov-radiation--film-dipoles-en--v1.mp4",
+   "sha256": "e4c4f4ff3f33ebc408e48095f1bf176efdabbe69629aeb2095ff7f8ff7093bdb",
+   "bytes": 4482322,
+   "duration_s": 57.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет Вавилова — Черенкова: диполи среды",
+    "en": "Cherenkov light: dipoles of the medium"
+   }
+  },
+  {
+   "id": "cherenkov-radiation",
+   "variant": "film-dipoles-ru",
+   "version": 1,
+   "file": "cherenkov-radiation/film-dipoles-ru-v1.mp4",
+   "asset": "cherenkov-radiation--film-dipoles-ru--v1.mp4",
+   "release": "cherenkov-radiation",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/cherenkov-radiation/cherenkov-radiation--film-dipoles-ru--v1.mp4",
+   "sha256": "be08c12d8d87d3e559b837bb78dcb91d347b666710e9c250b2eb65af6a60cda0",
+   "bytes": 4426199,
+   "duration_s": 57.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Свет Вавилова — Черенкова: диполи среды",
+    "en": "Cherenkov light: dipoles of the medium"
+   }
+  },
+  {
    "id": "icecube-first-pev",
    "variant": "web-en",
    "version": 3,
