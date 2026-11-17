@@ -24,6 +24,25 @@
    }
   },
   {
+   "id": "amanda-bubbles",
+   "variant": "short-ru",
+   "version": 1,
+   "file": "amanda-bubbles/short-ru-v1.mp4",
+   "asset": "amanda-bubbles--short-ru--v1.mp4",
+   "release": "amanda-bubbles",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/amanda-bubbles/amanda-bubbles--short-ru--v1.mp4",
+   "sha256": "a4b9c473324aa079b1f2eeac8444c1b16496308b428772d155bbc45f224e59d7",
+   "bytes": 64303388,
+   "duration_s": 40.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": false,
+   "title": {
+    "ru": "Свет во льду: AMANDA, 1993",
+    "en": "Light in the ice: AMANDA, 1993"
+   }
+  },
+  {
    "id": "cherenkov-radiation",
    "variant": "film-dipoles-en",
    "version": 1,
@@ -97,6 +116,44 @@
    "title": {
     "ru": "Свет Вавилова — Черенкова: диполи среды",
     "en": "Cherenkov light: dipoles of the medium"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
+   "variant": "short-en",
+   "version": 1,
+   "file": "icecube-first-pev/short-en-v1.mp4",
+   "asset": "icecube-first-pev--short-en--v1.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/icecube-first-pev/icecube-first-pev--short-en--v1.mp4",
+   "sha256": "c6eae041ea4cb731ec7b025eeb9823e506f2bd5668e745f7e9f83fd7ee561434",
+   "bytes": 20025408,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
+   }
+  },
+  {
+   "id": "icecube-first-pev",
+   "variant": "short-ru",
+   "version": 1,
+   "file": "icecube-first-pev/short-ru-v1.mp4",
+   "asset": "icecube-first-pev--short-ru--v1.mp4",
+   "release": "icecube-first-pev",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/icecube-first-pev/icecube-first-pev--short-ru--v1.mp4",
+   "sha256": "2b6c599023718b0e3b621729a1ee6f597ea5cc45ce8901cd9ea27398e40116d0",
+   "bytes": 20041944,
+   "duration_s": 60.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "IceCube: первые нейтрино с энергией ПэВ",
+    "en": "IceCube: the first PeV neutrinos"
    }
   },
   {
