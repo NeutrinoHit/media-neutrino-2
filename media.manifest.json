@@ -195,6 +195,44 @@
    }
   },
   {
+   "id": "pmt-juno",
+   "variant": "web-en",
+   "version": 2,
+   "file": "pmt-juno/web-en-v2.mp4",
+   "asset": "pmt-juno--web-en--v2.mp4",
+   "release": "pmt-juno",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/pmt-juno/pmt-juno--web-en--v2.mp4",
+   "sha256": "a7800bc02aa6b5ad0214146d3d581c229f2ee52500b9e52a27f094d6a296b3bd",
+   "bytes": 37288670,
+   "duration_s": 120.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "Увидеть один фотон",
+    "en": "Seeing a single photon"
+   }
+  },
+  {
+   "id": "pmt-juno",
+   "variant": "web-ru",
+   "version": 2,
+   "file": "pmt-juno/web-ru-v2.mp4",
+   "asset": "pmt-juno--web-ru--v2.mp4",
+   "release": "pmt-juno",
+   "url": "https://github.com/NeutrinoHit/media-neutrino-2/releases/download/pmt-juno/pmt-juno--web-ru--v2.mp4",
+   "sha256": "660200f62373ed7a6a1dda9d8235d52fe4a0fc7b954ddcef879b870a4c6efd13",
+   "bytes": 37212358,
+   "duration_s": 120.0,
+   "width": 1080,
+   "height": 1920,
+   "audio": true,
+   "title": {
+    "ru": "Увидеть один фотон",
+    "en": "Seeing a single photon"
+   }
+  },
+  {
    "id": "track-and-cascade",
    "variant": "short-en",
    "version": 1,
